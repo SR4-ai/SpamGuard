@@ -88,7 +88,7 @@ SpamGuard/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SR4-ai/SpamGuard
 ```
 
 Navigate into the project:
